@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning diploma in information technology
 - 💞️ I’m looking to collaborate on my devlopment journey
 - 📫 niravparmar1211@outlook.com 
-- 😄 Pronouns: developer x coder ✔
+- 😄 Pronouns: developer ❌ coder ✔
 - ⚡ Fun fact: i m just 15 year old
 
 <!---
